@@ -11,4 +11,4 @@ The project performs sentimental analysis based on opinion words (like good, bad
     
    Whole project used semi-supervised approach wherein predefined list of opinion target was provided in a variable named stuff. The synonyms of these opinion targets are used to figure out many similar words within the pattern. In addition, synonyms of opinion words are also included in the opinion word set to the generated similar opinion words of the pattern.
     
-   Also I validated the obtained result with Logistic Regression, Decision Tree, Gaussian Naive Bayes, Bernoulli Naive Bayes, Multinomial Naive Bayes, Random Forest, K-Nearest Neighbour, SVM(Linear and Non-linear kernel) using bag of word model with the accuracy of 58.31%, 82.26%, 73.75%, 76.42%, 81.80%, 82.15%, 78.67%, 79.15% respectively.
+   Also I validated the obtained result with Logistic Regression, Decision Tree, Gaussian Naive Bayes, Bernoulli Naive Bayes, Multinomial Naive Bayes, Random Forest, K-Nearest Neighbour, SVM(Linear and Non-linear kernel) using bag of word model with the accuracy of 58.31%, 82.26%, 73.75%, 76.42%, 81.80%, 82.15%, 78.67%, 79.15% respectively
